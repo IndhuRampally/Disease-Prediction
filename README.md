@@ -12,22 +12,22 @@ This Machine Learning project predicts common diseases based on user-reported sy
 5. Sample Prediction
 
 # Tech Stack
-  Python
-  Pandas
-  Seaborn
-  Matplotlib
-  Scikit-learn
+  • Python
+  • Pandas
+  • Seaborn
+  • Matplotlib
+  • Scikit-learn
 
 # Sample Prediction
 If a user has:
-   Fever:Yes
-   Cough:Yes
-   Fatigue:Yes
-   Headache:Yes
-   Body Pain:Yes
+   • Fever:Yes
+   • Cough:Yes
+   • Fatigue:Yes
+   • Headache:Yes
+   • Body Pain:Yes
 
 Then the model predicts:Flu
 
-Created by Indhu Rampally for job portfolio
+✔Created by Indhu Rampally for job portfolio
 
 
